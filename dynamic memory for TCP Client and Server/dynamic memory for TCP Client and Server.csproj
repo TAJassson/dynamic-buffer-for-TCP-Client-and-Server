@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>dynamic_memory_for_TCP_Client_and_Server</RootNamespace>
+  </PropertyGroup>
+
+</Project>
